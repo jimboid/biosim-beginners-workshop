@@ -1,5 +1,5 @@
-PSDI Beginners Workshop
-=======================
+CCPBioSim Beginners Workshop
+============================
 
 [![build](https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yml)
 
